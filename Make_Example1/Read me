@@ -1,7 +1,0 @@
-An example on make files 
-use the cmd commands
-- >make
-- >make all
-- >make clean
-- >make depend
-- >make onlyCompile
